@@ -1,0 +1,39 @@
+18:23:22.759 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:23:24.306 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:23:29.018 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+18:24:51.498 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:24:53.345 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:24:55.400 [calculation] DEBUG a.a.t.s.a.i.u.s.SimpleUniverseService - called calculateAnswer
+18:24:57.407 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.UniverseController - calculation succeeded with value 42!
+18:24:59.415 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+18:28:52.010 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:28:53.449 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:28:54.976 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+19:19:38.881 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:19:40.396 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:19:42.273 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:46:25.353 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:48:38.545 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:49:14.540 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:07:37.005 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:32:07.143 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:35:51.102 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:48:19.535 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:48:20.928 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:48:27.678 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:49:40.978 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:49:42.272 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:49:45.929 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:51:09.990 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:51:11.198 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:51:12.975 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:52:08.097 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:52:09.204 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:52:13.067 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:04:31.650 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:04:33.080 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:04:41.506 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:11:20.602 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:11:22.251 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:11:35.852 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:13:56.888 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]

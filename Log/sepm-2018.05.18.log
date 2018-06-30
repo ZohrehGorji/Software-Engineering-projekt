@@ -1,0 +1,340 @@
+12:49:43.665 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+12:49:46.860 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.ui.MainViewController - Main View Controller opened !
+12:49:48.624 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+12:49:53.943 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+12:49:53.944 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+12:49:53.944 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.VehicleDAOJDBC - getAll Vehicles:
+12:51:57.367 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:51:57.371 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where typeofdrive='motorized' 
+12:51:57.375 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 31
+12:51:57.376 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:51:57.376 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where typeofdrive='motorized' 
+12:51:57.378 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 31
+12:51:57.409 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BENZ', Year=2018, Description='f700', Seats=4, LicensePlate='MFN3Z4U', TypeOfDrive='motorized', Power=324, Price=24, LicenseClass='A B'}
+
+12:51:57.409 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BMW', Year=2011, Description='x6', Seats=4, LicensePlate='WFW2424', TypeOfDrive='motorized', Power=252, Price=45, LicenseClass='B'}
+
+12:51:57.409 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Audi', Year=2013, Description='s7', Seats=4, LicensePlate='EQD2456', TypeOfDrive='motorized', Power=252, Price=55, LicenseClass='B'}
+
+12:51:57.409 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BMW', Year=2014, Description='x5', Seats=4, LicensePlate='GEW245O', TypeOfDrive='motorized', Power=253, Price=45, LicenseClass='B'}
+
+12:51:57.410 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='MINI', Year=2014, Description='cooper', Seats=2, LicensePlate='MRF3535', TypeOfDrive='motorized', Power=245, Price=65, LicenseClass='B'}
+
+12:51:57.410 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Audi', Year=2012, Description='new', Seats=4, LicensePlate='NFR2435', TypeOfDrive='motorized', Power=252, Price=34, LicenseClass='B'}
+
+12:51:57.410 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Benz', Year=2014, Description='old', Seats=4, LicensePlate='RR34536', TypeOfDrive='motorized', Power=235, Price=77, LicenseClass='B'}
+
+12:51:57.410 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='MINI', Year=2015, Description='new', Seats=4, LicensePlate='EGJ3535', TypeOfDrive='motorized', Power=252, Price=65, LicenseClass='B'}
+
+12:51:57.410 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Audi', Year=2018, Description='sport', Seats=2, LicensePlate='MGN4535', TypeOfDrive='motorized', Power=435, Price=25, LicenseClass='B'}
+
+12:51:57.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Audi', Year=2012, Description='a6', Seats=4, LicensePlate='ERF3433', TypeOfDrive='motorized', Power=245, Price=87, LicenseClass='A B'}
+
+12:51:57.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Audi', Year=2013, Description='s1', Seats=4, LicensePlate='EFE3535', TypeOfDrive='motorized', Power=352, Price=55, LicenseClass='B'}
+
+12:51:57.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Audi', Year=2014, Description='s3', Seats=4, LicensePlate='MDS2424', TypeOfDrive='motorized', Power=252, Price=54, LicenseClass='B'}
+
+12:51:57.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BMW', Year=2016, Description='x1', Seats=4, LicensePlate='JHG3425', TypeOfDrive='motorized', Power=214, Price=45, LicenseClass='B C'}
+
+12:51:57.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BMW', Year=2016, Description='x2', Seats=2, LicensePlate='WEJ2534', TypeOfDrive='motorized', Power=353, Price=66, LicenseClass='B'}
+
+12:51:57.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BMW', Year=2017, Description='x3', Seats=4, LicensePlate='MDF2463', TypeOfDrive='motorized', Power=235, Price=65, LicenseClass='B'}
+
+12:51:57.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BMW', Year=2010, Description='x4', Seats=2, LicensePlate='MED3464', TypeOfDrive='motorized', Power=367, Price=84, LicenseClass='B'}
+
+12:51:57.412 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BMW', Year=2016, Description='x7', Seats=4, LicensePlate='MSB3464', TypeOfDrive='motorized', Power=346, Price=36, LicenseClass='B'}
+
+12:51:57.412 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='MINI', Year=2005, Description='ds3', Seats=4, LicensePlate='MBD6354', TypeOfDrive='motorized', Power=366, Price=35, LicenseClass='B'}
+
+12:51:57.412 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='MercedesBenz', Year=2011, Description='CLA', Seats=4, LicensePlate='MNG3547', TypeOfDrive='motorized', Power=356, Price=57, LicenseClass='B'}
+
+12:51:57.412 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Morris_Mini', Year=1959, Description='621_AOK', Seats=2, LicensePlate='OKI3574', TypeOfDrive='motorized', Power=341, Price=75, LicenseClass='B'}
+
+12:51:57.412 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Audi', Year=2017, Description='new', Seats=4, LicensePlate='MGH5753', TypeOfDrive='motorized', Power=325, Price=46, LicenseClass='B'}
+
+12:51:57.412 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BSA', Year=2016, Description='sport16', Seats=1, LicensePlate='MFH8364', TypeOfDrive='motorized', Power=322, Price=64, LicenseClass='A B'}
+
+12:51:57.413 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='DRYTONA', Year=2015, Description='sport675', Seats=1, LicensePlate='SDG7664', TypeOfDrive='motorized', Power=325, Price=64, LicenseClass='A'}
+
+12:51:57.413 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='yamaha', Year=2014, Description='superfast', Seats=1, LicensePlate='JEF4635', TypeOfDrive='motorized', Power=325, Price=54, LicenseClass='A'}
+
+12:51:57.413 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='mslaz', Year=2013, Description='fast', Seats=1, LicensePlate='WJR3452', TypeOfDrive='motorized', Power=325, Price=96, LicenseClass='A'}
+
+12:51:57.413 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Kawasaki', Year=2017, Description='ninja', Seats=1, LicensePlate='JWD3253', TypeOfDrive='motorized', Power=432, Price=85, LicenseClass='A'}
+
+12:51:57.413 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='harleydavidson', Year=2017, Description='new', Seats=1, LicensePlate='WDR4534', TypeOfDrive='motorized', Power=346, Price=88, LicenseClass='A'}
+
+12:51:57.413 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Kawasaki)', Year=2018, Description='Ninja_H2R', Seats=1, LicensePlate='WFR4643', TypeOfDrive='motorized', Power=564, Price=88, LicenseClass='A'}
+
+12:51:57.413 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BENZ_LKW', Year=2018, Description='FAST', Seats=3, LicensePlate='MFR3349', TypeOfDrive='motorized', Power=700, Price=300, LicenseClass='C'}
+
+12:51:57.414 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='SCANIA', Year=2018, Description='HEAVY', Seats=2, LicensePlate='MEF3524', TypeOfDrive='motorized', Power=750, Price=180, LicenseClass='C'}
+
+12:51:57.414 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='bicycle', Year=2018, Description='noLicense', Seats=2, LicensePlate='bMH8489', TypeOfDrive='motorized', Power=750, Price=180, LicenseClass=''}
+
+12:51:57.414 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 62
+12:51:57.483 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+12:51:57.483 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:51:57.483 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where typeofdrive='motorized' 
+12:51:57.485 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 31
+12:52:00.493 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:52:00.493 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where typeofdrive='muscle' 
+12:52:00.494 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 7
+12:52:00.494 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:52:00.495 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where typeofdrive='muscle' 
+12:52:00.496 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 7
+12:52:00.496 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='GTO', Year=1966, Description='Pontiac', Seats=2, LicensePlate='WFW3533', TypeOfDrive='muscle', Power=0, Price=35, LicenseClass='B'}
+
+12:52:00.496 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='plymouth', Year=1968, Description='road-runner', Seats=2, LicensePlate='FRE3533', TypeOfDrive='muscle', Power=0, Price=67, LicenseClass='B'}
+
+12:52:00.496 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='buick', Year=1970, Description='gsx', Seats=2, LicensePlate='MNF2435', TypeOfDrive='muscle', Power=0, Price=44, LicenseClass='B C'}
+
+12:52:00.496 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='plymouth', Year=1970, Description='hemi-cuda', Seats=2, LicensePlate='MNC4535', TypeOfDrive='muscle', Power=0, Price=36, LicenseClass='B'}
+
+12:52:00.497 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='chevrolet', Year=1969, Description='camero-zl1', Seats=2, LicensePlate='VVS5742', TypeOfDrive='muscle', Power=0, Price=46, LicenseClass='B'}
+
+12:52:00.497 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='ford-mustang', Year=1969, Description='boss', Seats=2, LicensePlate='BGS6743', TypeOfDrive='muscle', Power=0, Price=65, LicenseClass='B'}
+
+12:52:00.497 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='chevrolet', Year=1970, Description='chevelle', Seats=2, LicensePlate='DBG6757', TypeOfDrive='muscle', Power=0, Price=57, LicenseClass='B'}
+
+12:52:00.497 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 7
+12:52:00.549 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+12:52:00.549 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:52:00.550 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where typeofdrive='muscle' 
+12:52:00.551 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 7
+12:52:10.145 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:52:10.146 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where typeofdrive='muscle'  and price>=35
+12:52:10.148 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 7
+12:52:10.148 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:52:10.148 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where typeofdrive='muscle'  and price>=35
+12:52:10.149 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 7
+12:52:10.149 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='GTO', Year=1966, Description='Pontiac', Seats=2, LicensePlate='WFW3533', TypeOfDrive='muscle', Power=0, Price=35, LicenseClass='B'}
+
+12:52:10.149 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='plymouth', Year=1968, Description='road-runner', Seats=2, LicensePlate='FRE3533', TypeOfDrive='muscle', Power=0, Price=67, LicenseClass='B'}
+
+12:52:10.150 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='buick', Year=1970, Description='gsx', Seats=2, LicensePlate='MNF2435', TypeOfDrive='muscle', Power=0, Price=44, LicenseClass='B C'}
+
+12:52:10.150 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='plymouth', Year=1970, Description='hemi-cuda', Seats=2, LicensePlate='MNC4535', TypeOfDrive='muscle', Power=0, Price=36, LicenseClass='B'}
+
+12:52:10.150 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='chevrolet', Year=1969, Description='camero-zl1', Seats=2, LicensePlate='VVS5742', TypeOfDrive='muscle', Power=0, Price=46, LicenseClass='B'}
+
+12:52:10.150 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='ford-mustang', Year=1969, Description='boss', Seats=2, LicensePlate='BGS6743', TypeOfDrive='muscle', Power=0, Price=65, LicenseClass='B'}
+
+12:52:10.150 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='chevrolet', Year=1970, Description='chevelle', Seats=2, LicensePlate='DBG6757', TypeOfDrive='muscle', Power=0, Price=57, LicenseClass='B'}
+
+12:52:10.150 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 7
+12:52:10.213 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+12:52:10.213 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:52:10.214 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where typeofdrive='muscle'  and price>=35
+12:52:10.215 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 7
+12:52:16.152 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:52:16.153 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where typeofdrive='muscle'  and price>=65
+12:52:16.154 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 2
+12:52:16.154 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:52:16.154 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where typeofdrive='muscle'  and price>=65
+12:52:16.155 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 2
+12:52:16.155 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='plymouth', Year=1968, Description='road-runner', Seats=2, LicensePlate='FRE3533', TypeOfDrive='muscle', Power=0, Price=67, LicenseClass='B'}
+
+12:52:16.155 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='ford-mustang', Year=1969, Description='boss', Seats=2, LicensePlate='BGS6743', TypeOfDrive='muscle', Power=0, Price=65, LicenseClass='B'}
+
+12:52:16.155 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 2
+12:52:16.191 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+12:52:16.191 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:52:16.191 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where typeofdrive='muscle'  and price>=65
+12:52:16.192 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 2
+12:52:58.594 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:52:58.596 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where typeofdrive='muscle'  and typeofdrive='motorized' 
+12:52:58.597 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 0
+12:53:01.632 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:53:01.632 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where typeofdrive='motorized' 
+12:53:01.633 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 31
+12:53:01.633 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:53:01.634 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where typeofdrive='motorized' 
+12:53:01.635 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 31
+12:53:01.635 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BENZ', Year=2018, Description='f700', Seats=4, LicensePlate='MFN3Z4U', TypeOfDrive='motorized', Power=324, Price=24, LicenseClass='A B'}
+
+12:53:01.635 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BMW', Year=2011, Description='x6', Seats=4, LicensePlate='WFW2424', TypeOfDrive='motorized', Power=252, Price=45, LicenseClass='B'}
+
+12:53:01.635 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Audi', Year=2013, Description='s7', Seats=4, LicensePlate='EQD2456', TypeOfDrive='motorized', Power=252, Price=55, LicenseClass='B'}
+
+12:53:01.635 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BMW', Year=2014, Description='x5', Seats=4, LicensePlate='GEW245O', TypeOfDrive='motorized', Power=253, Price=45, LicenseClass='B'}
+
+12:53:01.635 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='MINI', Year=2014, Description='cooper', Seats=2, LicensePlate='MRF3535', TypeOfDrive='motorized', Power=245, Price=65, LicenseClass='B'}
+
+12:53:01.635 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Audi', Year=2012, Description='new', Seats=4, LicensePlate='NFR2435', TypeOfDrive='motorized', Power=252, Price=34, LicenseClass='B'}
+
+12:53:01.635 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Benz', Year=2014, Description='old', Seats=4, LicensePlate='RR34536', TypeOfDrive='motorized', Power=235, Price=77, LicenseClass='B'}
+
+12:53:01.635 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='MINI', Year=2015, Description='new', Seats=4, LicensePlate='EGJ3535', TypeOfDrive='motorized', Power=252, Price=65, LicenseClass='B'}
+
+12:53:01.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Audi', Year=2018, Description='sport', Seats=2, LicensePlate='MGN4535', TypeOfDrive='motorized', Power=435, Price=25, LicenseClass='B'}
+
+12:53:01.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Audi', Year=2012, Description='a6', Seats=4, LicensePlate='ERF3433', TypeOfDrive='motorized', Power=245, Price=87, LicenseClass='A B'}
+
+12:53:01.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Audi', Year=2013, Description='s1', Seats=4, LicensePlate='EFE3535', TypeOfDrive='motorized', Power=352, Price=55, LicenseClass='B'}
+
+12:53:01.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Audi', Year=2014, Description='s3', Seats=4, LicensePlate='MDS2424', TypeOfDrive='motorized', Power=252, Price=54, LicenseClass='B'}
+
+12:53:01.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BMW', Year=2016, Description='x1', Seats=4, LicensePlate='JHG3425', TypeOfDrive='motorized', Power=214, Price=45, LicenseClass='B C'}
+
+12:53:01.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BMW', Year=2016, Description='x2', Seats=2, LicensePlate='WEJ2534', TypeOfDrive='motorized', Power=353, Price=66, LicenseClass='B'}
+
+12:53:01.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BMW', Year=2017, Description='x3', Seats=4, LicensePlate='MDF2463', TypeOfDrive='motorized', Power=235, Price=65, LicenseClass='B'}
+
+12:53:01.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BMW', Year=2010, Description='x4', Seats=2, LicensePlate='MED3464', TypeOfDrive='motorized', Power=367, Price=84, LicenseClass='B'}
+
+12:53:01.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BMW', Year=2016, Description='x7', Seats=4, LicensePlate='MSB3464', TypeOfDrive='motorized', Power=346, Price=36, LicenseClass='B'}
+
+12:53:01.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='MINI', Year=2005, Description='ds3', Seats=4, LicensePlate='MBD6354', TypeOfDrive='motorized', Power=366, Price=35, LicenseClass='B'}
+
+12:53:01.637 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='MercedesBenz', Year=2011, Description='CLA', Seats=4, LicensePlate='MNG3547', TypeOfDrive='motorized', Power=356, Price=57, LicenseClass='B'}
+
+12:53:01.637 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Morris_Mini', Year=1959, Description='621_AOK', Seats=2, LicensePlate='OKI3574', TypeOfDrive='motorized', Power=341, Price=75, LicenseClass='B'}
+
+12:53:01.637 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Audi', Year=2017, Description='new', Seats=4, LicensePlate='MGH5753', TypeOfDrive='motorized', Power=325, Price=46, LicenseClass='B'}
+
+12:53:01.637 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BSA', Year=2016, Description='sport16', Seats=1, LicensePlate='MFH8364', TypeOfDrive='motorized', Power=322, Price=64, LicenseClass='A B'}
+
+12:53:01.637 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='DRYTONA', Year=2015, Description='sport675', Seats=1, LicensePlate='SDG7664', TypeOfDrive='motorized', Power=325, Price=64, LicenseClass='A'}
+
+12:53:01.637 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='yamaha', Year=2014, Description='superfast', Seats=1, LicensePlate='JEF4635', TypeOfDrive='motorized', Power=325, Price=54, LicenseClass='A'}
+
+12:53:01.637 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='mslaz', Year=2013, Description='fast', Seats=1, LicensePlate='WJR3452', TypeOfDrive='motorized', Power=325, Price=96, LicenseClass='A'}
+
+12:53:01.638 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Kawasaki', Year=2017, Description='ninja', Seats=1, LicensePlate='JWD3253', TypeOfDrive='motorized', Power=432, Price=85, LicenseClass='A'}
+
+12:53:01.638 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='harleydavidson', Year=2017, Description='new', Seats=1, LicensePlate='WDR4534', TypeOfDrive='motorized', Power=346, Price=88, LicenseClass='A'}
+
+12:53:01.638 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Kawasaki)', Year=2018, Description='Ninja_H2R', Seats=1, LicensePlate='WFR4643', TypeOfDrive='motorized', Power=564, Price=88, LicenseClass='A'}
+
+12:53:01.638 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BENZ_LKW', Year=2018, Description='FAST', Seats=3, LicensePlate='MFR3349', TypeOfDrive='motorized', Power=700, Price=300, LicenseClass='C'}
+
+12:53:01.638 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='SCANIA', Year=2018, Description='HEAVY', Seats=2, LicensePlate='MEF3524', TypeOfDrive='motorized', Power=750, Price=180, LicenseClass='C'}
+
+12:53:01.638 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='bicycle', Year=2018, Description='noLicense', Seats=2, LicensePlate='bMH8489', TypeOfDrive='motorized', Power=750, Price=180, LicenseClass=''}
+
+12:53:01.638 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 31
+12:53:01.677 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+12:53:01.678 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:53:01.678 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where typeofdrive='motorized' 
+12:53:01.679 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 31
+12:54:14.380 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:54:14.381 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where LICENSECLASS  like '%ABC%'
+12:54:14.384 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 0
+12:54:19.340 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:54:19.340 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where LICENSECLASS  like '%A B%'
+12:54:19.341 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 3
+12:54:19.341 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:54:19.341 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where LICENSECLASS  like '%A B%'
+12:54:19.342 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 3
+12:54:19.343 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BENZ', Year=2018, Description='f700', Seats=4, LicensePlate='MFN3Z4U', TypeOfDrive='motorized', Power=324, Price=24, LicenseClass='A B'}
+
+12:54:19.343 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Audi', Year=2012, Description='a6', Seats=4, LicensePlate='ERF3433', TypeOfDrive='motorized', Power=245, Price=87, LicenseClass='A B'}
+
+12:54:19.343 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BSA', Year=2016, Description='sport16', Seats=1, LicensePlate='MFH8364', TypeOfDrive='motorized', Power=322, Price=64, LicenseClass='A B'}
+
+12:54:19.343 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 6
+12:54:19.386 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+12:54:19.386 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:54:19.386 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where LICENSECLASS  like '%A B%'
+12:54:19.387 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 3
+12:54:25.246 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:54:25.246 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where LICENSECLASS  like '%A B C%'
+12:54:25.247 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 0
+12:54:30.127 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:54:30.128 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where LICENSECLASS  like '%A C%'
+12:54:30.128 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 0
+12:54:33.806 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:54:33.807 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where LICENSECLASS  like '%A%'
+12:54:33.808 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 9
+12:54:33.808 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:54:33.808 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where LICENSECLASS  like '%A%'
+12:54:33.808 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 9
+12:54:33.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BENZ', Year=2018, Description='f700', Seats=4, LicensePlate='MFN3Z4U', TypeOfDrive='motorized', Power=324, Price=24, LicenseClass='A B'}
+
+12:54:33.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Audi', Year=2012, Description='a6', Seats=4, LicensePlate='ERF3433', TypeOfDrive='motorized', Power=245, Price=87, LicenseClass='A B'}
+
+12:54:33.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='BSA', Year=2016, Description='sport16', Seats=1, LicensePlate='MFH8364', TypeOfDrive='motorized', Power=322, Price=64, LicenseClass='A B'}
+
+12:54:33.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='DRYTONA', Year=2015, Description='sport675', Seats=1, LicensePlate='SDG7664', TypeOfDrive='motorized', Power=325, Price=64, LicenseClass='A'}
+
+12:54:33.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='yamaha', Year=2014, Description='superfast', Seats=1, LicensePlate='JEF4635', TypeOfDrive='motorized', Power=325, Price=54, LicenseClass='A'}
+
+12:54:33.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='mslaz', Year=2013, Description='fast', Seats=1, LicensePlate='WJR3452', TypeOfDrive='motorized', Power=325, Price=96, LicenseClass='A'}
+
+12:54:33.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Kawasaki', Year=2017, Description='ninja', Seats=1, LicensePlate='JWD3253', TypeOfDrive='motorized', Power=432, Price=85, LicenseClass='A'}
+
+12:54:33.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='harleydavidson', Year=2017, Description='new', Seats=1, LicensePlate='WDR4534', TypeOfDrive='motorized', Power=346, Price=88, LicenseClass='A'}
+
+12:54:33.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Vehicle: Title='Kawasaki)', Year=2018, Description='Ninja_H2R', Seats=1, LicensePlate='WFR4643', TypeOfDrive='motorized', Power=564, Price=88, LicenseClass='A'}
+
+12:54:33.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 9
+12:54:33.852 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+12:54:33.852 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Filter Table {}  
+12:54:33.852 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - select * from Vehicle where LICENSECLASS  like '%A%'
+12:54:33.853 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - 9
+12:55:21.738 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 33
+12:55:21.739 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/33.jpeg
+12:55:25.062 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl -  search Vehicle 33  
+12:55:25.063 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.VehicleDAOJDBC - Search the Vehicle 33
+12:55:25.063 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.VehicleDAOJDBC - Vehicle with the ID found: 
+12:55:25.063 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.u.ShowVehicleTableController - found vehicle to be deleted: Vehicle: Title='Kawasaki', Year=2017, Description='ninja', Seats=1, LicensePlate='JWD3253', TypeOfDrive='motorized', Power=432, Price=85, LicenseClass='A'}
+
+12:55:25.063 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - User want to delet a Vehicle Vehicle: Title='Kawasaki', Year=2017, Description='ninja', Seats=1, LicensePlate='JWD3253', TypeOfDrive='motorized', Power=432, Price=85, LicenseClass='A'}
+  
+12:55:25.064 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.VehicleDAOJDBC -  Delete the VEHICLE: Vehicle: Title='Kawasaki', Year=2017, Description='ninja', Seats=1, LicensePlate='JWD3253', TypeOfDrive='motorized', Power=432, Price=85, LicenseClass='A'}
+
+12:55:25.068 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - Vehicle deleted ! 
+12:55:25.136 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+12:55:25.136 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+12:55:25.137 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.VehicleDAOJDBC - getAll Vehicles:
+12:55:51.087 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 14
+12:55:51.091 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:55:51.098 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:55:51.098 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/14.jpeg
+12:55:52.188 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 15
+12:55:52.188 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:55:52.188 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:55:52.189 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/15.jpeg
+12:55:52.898 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 16
+12:55:52.899 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:55:52.900 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:55:52.900 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/16.jpeg
+12:55:53.458 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 17
+12:55:53.459 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:55:53.459 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:55:53.459 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/17.jpeg
+12:55:53.978 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 18
+12:55:53.979 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:55:53.979 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:55:53.979 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/18.jpeg
+12:55:54.498 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 19
+12:55:54.499 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:55:54.499 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:55:54.499 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/19.jpeg
+12:55:55.098 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 20
+12:55:55.099 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:55:55.099 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:55:55.099 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/20.jpeg
+12:55:55.594 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 21
+12:55:55.595 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:55:55.595 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:55:55.595 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/21.jpeg
+12:55:55.954 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 22
+12:55:55.955 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/22.jpeg
+12:55:56.306 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 23
+12:55:56.307 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/23.jpeg
+12:55:56.706 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 24
+12:55:56.707 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/24.jpeg
+12:55:57.098 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 25
+12:55:57.099 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/25.jpeg
+12:55:57.434 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 26
+12:55:57.435 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/26.jpeg
+12:55:57.850 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 27
+12:55:57.851 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/27.jpeg
+12:55:58.242 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 28
+12:55:58.243 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/28.jpeg
+12:55:58.602 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 29
+12:55:58.603 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/29.jpeg
+12:58:22.583 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - Waiting to close the database!
+12:58:22.585 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.dao.VehicleDAOJDBC - Closing Database Connection!

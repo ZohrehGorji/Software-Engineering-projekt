@@ -1,0 +1,235 @@
+14:09:47.901 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:11:01.363 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:11:03.122 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:14:56.278 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:14:57.947 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:25:15.566 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:25:17.756 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:37:40.709 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:37:42.888 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:38:25.979 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:38:28.714 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+16:06:04.397 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+16:06:05.972 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+16:06:32.760 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+16:06:36.853 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+16:07:33.741 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+16:07:35.360 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+16:07:38.716 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+16:13:10.958 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+16:13:12.714 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+16:13:18.454 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+16:13:20.240 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+16:13:29.698 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+16:13:31.181 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+16:13:33.119 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+16:13:34.822 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+16:13:36.496 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+16:24:46.283 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+16:24:47.782 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+16:24:51.896 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+16:25:02.794 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+16:25:39.342 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+16:25:40.918 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+16:25:49.189 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+16:26:17.205 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+16:27:03.686 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+16:27:05.235 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+16:27:08.012 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+16:34:05.998 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+16:34:07.607 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+16:34:15.470 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+16:34:17.149 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+16:34:19.750 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+18:29:14.354 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:29:15.772 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:29:35.679 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+18:29:37.633 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+18:29:40.167 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+18:36:20.920 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:36:22.463 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:36:25.909 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+18:38:05.058 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:38:06.570 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:38:17.718 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+18:44:36.497 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:44:38.049 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:44:54.082 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+18:52:21.796 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:52:23.393 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:52:32.343 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+18:52:32.346 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save all
+18:52:32.346 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@559e1f8a
+18:52:32.449 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save
+18:54:06.354 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+19:07:35.086 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:07:36.888 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:07:42.552 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+19:07:42.554 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save all
+19:07:42.554 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@5df029da
+19:07:42.645 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save
+19:11:35.043 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:11:36.802 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:11:45.726 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+19:11:45.728 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save all
+19:11:45.729 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@7001a265
+19:11:45.822 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save
+19:29:59.025 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:30:48.873 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:30:50.339 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:34:55.153 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:38:04.697 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:38:06.429 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:41:37.927 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:41:40.198 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:41:59.457 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+19:42:25.903 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:42:27.709 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:42:29.456 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+20:08:04.149 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:08:05.917 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:08:19.677 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:08:21.373 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:08:25.869 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+20:12:45.636 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:12:47.490 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:51:38.573 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:51:55.844 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:51:57.904 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:58:01.619 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:58:03.277 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:58:04.642 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+20:58:12.002 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+20:58:34.477 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:58:36.187 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:58:38.105 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.UniverseController - Save all Button
+20:58:45.330 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+20:59:17.245 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:59:19.044 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:59:20.226 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:00:32.452 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:00:34.355 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:00:47.073 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:20:18.710 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:20:20.516 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:20:24.176 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+21:20:27.665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+21:33:43.631 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:33:45.445 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:33:52.839 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+21:35:00.654 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:35:02.604 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:35:08.080 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+21:35:12.168 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+21:35:36.460 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:35:38.555 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:35:39.695 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+21:35:41.811 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+21:35:46.568 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+21:35:49.615 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+21:38:38.181 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:38:40.042 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:38:45.467 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+21:38:51.274 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:39:35.334 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:39:37.249 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:39:43.275 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+21:40:05.807 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:40:07.675 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:40:08.688 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+21:40:22.130 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:40:24.138 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:40:25.270 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+21:40:27.758 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:42:54.866 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:42:56.874 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:42:58.333 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+21:43:20.605 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+21:43:24.128 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:47:11.141 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:47:36.676 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:47:38.446 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:47:44.447 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:15:59.176 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:16:01.058 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:16:33.729 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:16:37.518 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:16:40.903 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:17:29.942 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:18:48.222 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:18:50.113 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:18:51.935 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:19:18.176 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:19:19.930 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:19:37.612 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:20:18.701 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:20:20.491 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:20:21.530 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:20:27.154 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:20:29.098 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:20:29.644 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:20:30.136 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:20:30.600 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:20:30.915 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:20:31.290 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:25:08.021 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:25:09.794 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:25:18.069 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:25:18.070 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save all
+22:25:18.070 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@3c8e8131
+22:25:18.159 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save
+22:27:21.617 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:34:25.411 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:34:27.955 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:34:39.397 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:34:39.399 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save all
+22:34:39.399 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@718950af
+22:36:55.384 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:36:56.983 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:37:03.772 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:37:03.773 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save all
+22:37:03.773 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@7184f09c
+22:58:27.266 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:58:28.820 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:58:39.305 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:58:39.308 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save all
+22:58:39.308 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@1ffbb06a
+22:58:42.633 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:58:42.634 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save all
+22:58:42.634 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@64df8413
+23:00:01.392 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:00:02.824 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:00:11.656 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+23:00:11.658 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save all
+23:00:11.658 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@2f1cb2ad
+23:00:11.740 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save
+23:02:10.017 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:02:11.517 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:02:19.663 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+23:02:19.664 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save all
+23:02:19.665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@140ac0f7
+23:02:19.747 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save
+23:18:21.040 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:18:22.708 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:18:26.091 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+23:18:26.092 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save all
+23:18:26.093 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@44ff7ced
+23:18:26.179 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save
+23:36:22.052 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:36:23.646 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:36:29.033 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+23:36:29.034 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save all
+23:36:29.035 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@6d6d9326
+23:36:29.118 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save
+23:50:10.339 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:50:11.949 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:50:17.086 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+23:50:17.087 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save all
+23:50:17.087 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@5961dcea
+23:50:17.169 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save
+23:50:35.703 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:50:37.398 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:50:45.237 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+23:50:45.238 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save all
+23:50:45.238 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@5b365649
+23:50:45.306 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save

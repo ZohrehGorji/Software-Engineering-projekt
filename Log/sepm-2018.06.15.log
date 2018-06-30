@@ -1,0 +1,5 @@
+20:11:55.962 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:11:57.726 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.ui.MainViewController - Main View Controller opened !
+20:11:59.044 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:12:41.085 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.ui.MainViewController - Main View Controller opened !
+20:12:44.510 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated

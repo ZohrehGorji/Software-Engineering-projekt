@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="rootpane" maxHeight="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="900.0" stylesheets="@x.css" xmlns="http://javafx.com/javafx/9.0.4" xmlns:fx="http://javafx.com/fxml/1" fx:controller="at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.ui.EmployeeMenuController">
+   <Button fx:id="makeAReservation" layoutX="194.0" layoutY="131.0" mnemonicParsing="false" onAction="#makeAReservation" prefHeight="51.0" prefWidth="536.0" styleClass="buttonNew" text="make a new Reservation">
+      <font>
+         <Font size="24.0" />
+      </font></Button>
+   <Button layoutX="20.0" layoutY="635.0" mnemonicParsing="false" onAction="#backToMain" prefHeight="47.0" prefWidth="110.0" styleClass="buttonNew" text="&lt; Back" />
+   <Button layoutX="751.0" layoutY="635.0" mnemonicParsing="false" onAction="#Exit" prefHeight="50.0" prefWidth="128.0" styleClass="buttonNewred" text="End" textFill="#d33c3c" />
+   <Button layoutX="191.0" layoutY="321.0" mnemonicParsing="false" onAction="#showAllTheReservations" prefHeight="151.0" prefWidth="544.0" styleClass="buttonNew" text="Handle open Reservations" textAlignment="CENTER" wrapText="true">
+      <font>
+         <Font size="14.0" />
+      </font>
+   </Button>
+   <Label layoutX="70.0" layoutY="71.0" text="New Reservation:" />
+   <Label layoutX="72.0" layoutY="268.0" text="Table of the Reservations ! " />
+
+</AnchorPane>

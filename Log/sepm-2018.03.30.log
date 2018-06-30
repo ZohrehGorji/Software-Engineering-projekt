@@ -1,0 +1,449 @@
+18:21:48.782 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:21:50.059 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+18:21:50.964 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:23:35.982 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+18:23:35.983 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+18:23:35.984 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+18:24:22.073 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+18:24:22.073 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+18:24:22.073 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+18:24:31.177 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+18:24:31.177 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+18:24:31.178 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+18:25:35.525 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:25:36.751 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+18:25:37.602 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:25:54.231 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+18:25:54.232 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+18:25:54.232 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:25:59.861 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+18:26:10.821 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+18:26:10.821 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+18:26:10.821 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+18:26:27.287 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+18:26:27.287 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+18:26:27.287 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+18:26:27.287 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to create a Vehicle Vehicle: Title='', Year=1332, Description='', Seats=1, LicensePlate='', TypeOfDrive='muscle', Power=0, Price=13, LicenseClass=''} 
+18:26:27.316 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.MainViewController - Title is empty ! 
+18:26:31.951 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+18:30:24.757 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:30:25.885 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+18:30:26.792 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:30:28.539 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+18:53:32.026 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Create vehicle :Vehicle: Title='bmw', Year=1990, Description='old', Seats=4, LicensePlate='hbqjhwr6243', TypeOfDrive='motorized', Power=30, Price=14, LicenseClass='A'}
+18:53:32.222 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Edit the Vehicle :56
+18:53:32.223 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Search the Vehicle 56
+18:53:32.235 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - found!
+18:53:32.265 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Updated 1
+18:53:32.266 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:53:32.268 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:53:32.272 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Edit the Vehicle :56
+18:53:32.273 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Search the Vehicle 56
+18:53:32.276 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - found!
+18:53:32.278 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Updated 1
+18:53:32.287 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:53:32.290 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Create vehicle :Vehicle: Title='two', Year=1990, Description='one', Seats=4, LicensePlate='hbqjhwr6243', TypeOfDrive='motorized', Power=30, Price=14, LicenseClass='A'}
+18:53:32.294 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:53:32.338 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  delete the VEHICLE: Vehicle: Title='two', Year=1990, Description='one', Seats=4, LicensePlate='hbqjhwr6243', TypeOfDrive='motorized', Power=30, Price=14, LicenseClass='A'}
+18:53:32.342 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:53:32.375 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Create vehicle :null
+18:53:32.439 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Create vehicle :Vehicle: Title='two', Year=1990, Description='one', Seats=4, LicensePlate='hbqjhwr6243', TypeOfDrive='motorized', Power=30, Price=14, LicenseClass='A'}
+18:53:32.454 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:53:32.462 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:53:32.468 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Search the Vehicle 58
+18:53:32.474 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - found!
+18:53:32.475 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:53:32.477 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Create vehicle :Vehicle: Title='two', Year=1990, Description='one', Seats=4, LicensePlate='hbqjhwr6243', TypeOfDrive='motorized', Power=30, Price=14, LicenseClass='A'}
+18:53:32.480 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:55:24.167 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Create vehicle :Vehicle: Title='bmw', Year=1990, Description='old', Seats=4, LicensePlate='hbqjhwr6243', TypeOfDrive='motorized', Power=30, Price=14, LicenseClass='A'}
+18:55:24.437 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Edit the Vehicle :60
+18:55:24.438 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Search the Vehicle 60
+18:55:24.442 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - found!
+18:55:24.457 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Updated 1
+18:55:24.458 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:55:24.461 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:55:24.465 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Edit the Vehicle :60
+18:55:24.466 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Search the Vehicle 60
+18:55:24.467 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - found!
+18:55:24.469 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Updated 1
+18:55:24.474 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:55:24.475 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Create vehicle :Vehicle: Title='two', Year=1990, Description='one', Seats=4, LicensePlate='hbqjhwr6243', TypeOfDrive='motorized', Power=30, Price=14, LicenseClass='A'}
+18:55:24.478 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:55:24.482 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  delete the VEHICLE: Vehicle: Title='two', Year=1990, Description='one', Seats=4, LicensePlate='hbqjhwr6243', TypeOfDrive='motorized', Power=30, Price=14, LicenseClass='A'}
+18:55:24.490 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:55:24.502 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Create vehicle :null
+18:55:24.507 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Create vehicle :Vehicle: Title='two', Year=1990, Description='one', Seats=4, LicensePlate='hbqjhwr6243', TypeOfDrive='motorized', Power=30, Price=14, LicenseClass='A'}
+18:55:24.511 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:55:24.614 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:55:24.622 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Search the Vehicle 62
+18:55:24.628 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - found!
+18:55:24.636 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+18:55:24.641 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Create vehicle :Vehicle: Title='two', Year=1990, Description='one', Seats=4, LicensePlate='hbqjhwr6243', TypeOfDrive='motorized', Power=30, Price=14, LicenseClass='A'}
+18:55:24.646 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:11:44.847 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Create vehicle :Vehicle: Title='bmw', Year=1990, Description='old', Seats=4, LicensePlate='hbqjhwr6243', TypeOfDrive='motorized', Power=30, Price=14, LicenseClass='A'}
+19:11:44.992 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Edit the Vehicle :64
+19:11:44.993 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Search the Vehicle 64
+19:11:44.997 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Vehicle with the ID found: 
+19:11:45.006 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Updated 1
+19:11:45.007 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:11:45.009 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:11:45.012 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Edit the Vehicle :64
+19:11:45.013 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Search the Vehicle 64
+19:11:45.016 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Vehicle with the ID found: 
+19:11:45.018 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Updated 1
+19:11:45.023 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:11:45.025 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Create vehicle :Vehicle: Title='two', Year=1990, Description='one', Seats=4, LicensePlate='hbqjhwr6243', TypeOfDrive='motorized', Power=30, Price=14, LicenseClass='A'}
+19:11:45.027 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:11:45.029 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  delete the VEHICLE: Vehicle: Title='two', Year=1990, Description='one', Seats=4, LicensePlate='hbqjhwr6243', TypeOfDrive='motorized', Power=30, Price=14, LicenseClass='A'}
+19:11:45.035 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:11:45.171 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Create vehicle :null
+19:11:45.174 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Create vehicle :Vehicle: Title='two', Year=1990, Description='one', Seats=4, LicensePlate='hbqjhwr6243', TypeOfDrive='motorized', Power=30, Price=14, LicenseClass='A'}
+19:11:45.189 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:11:45.194 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:11:45.197 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Search the Vehicle 66
+19:11:45.200 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Vehicle with the ID found: 
+19:11:45.204 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:11:45.208 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Create vehicle :Vehicle: Title='two', Year=1990, Description='one', Seats=4, LicensePlate='hbqjhwr6243', TypeOfDrive='motorized', Power=30, Price=14, LicenseClass='A'}
+19:11:45.220 [main] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:14:17.221 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:14:18.201 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+19:14:18.893 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:14:23.239 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+19:43:49.639 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:43:50.767 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+19:43:51.529 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:43:54.111 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+19:43:54.111 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+19:43:54.112 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:43:55.799 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+19:43:55.802 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+19:43:55.803 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+19:44:01.282 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - VehicleEditWindowController: initialize
+19:44:01.283 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - no picture to show !
+19:44:05.109 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.VehicleEditWindowController - VehicleEditWindowController: updateReservation {}
+19:44:05.122 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to updateReservation a Vehicle Vehicle: Title='aae', Year=1223, Description='', Seats=1, LicensePlate='', TypeOfDrive='muscle', Power=0, Price=1, LicenseClass=''}  
+19:44:05.146 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.VehicleServiceImpl - Ich bin hier
+19:44:08.690 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+19:44:31.725 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:44:32.748 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+19:44:33.517 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:44:37.747 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+19:44:37.748 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+19:44:37.748 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:44:40.150 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+19:44:40.152 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+19:44:40.153 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+19:44:41.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - VehicleEditWindowController: initialize
+19:44:41.637 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - no picture to show !
+19:44:51.708 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.VehicleEditWindowController - VehicleEditWindowController: updateReservation {}
+19:44:51.720 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to updateReservation a Vehicle Vehicle: Title='1ae', Year=1224, Description='', Seats=1, LicensePlate='', TypeOfDrive='muscle', Power=0, Price=1, LicenseClass=''}  
+19:44:51.747 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.VehicleServiceImpl - Ich bin hier
+19:44:53.732 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+19:45:12.258 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:45:13.217 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+19:45:14.004 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:45:20.311 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+19:45:20.312 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+19:45:20.312 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:45:21.646 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+19:45:21.651 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+19:45:21.651 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+19:45:22.869 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - VehicleEditWindowController: initialize
+19:45:22.871 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - no picture to show !
+19:45:25.357 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.VehicleEditWindowController - VehicleEditWindowController: updateReservation {}
+19:45:25.371 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to updateReservation a Vehicle Vehicle: Title='qae', Year=1223, Description='', Seats=1, LicensePlate='', TypeOfDrive='muscle', Power=0, Price=1, LicenseClass=''}  
+19:45:25.398 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.VehicleServiceImpl - Ich bin hier
+19:45:26.907 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+19:45:26.907 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+19:45:26.907 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:45:26.910 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - EDITOK
+19:45:28.459 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+19:46:00.097 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:46:01.187 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+19:46:02.058 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:46:04.987 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+19:46:04.988 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+19:46:04.988 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:46:06.478 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+19:46:06.481 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+19:46:06.481 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+19:46:07.366 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - VehicleEditWindowController: initialize
+19:46:07.368 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - no picture to show !
+19:46:09.797 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.VehicleEditWindowController - VehicleEditWindowController: updateReservation {}
+19:46:09.809 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to updateReservation a Vehicle Vehicle: Title='sae', Year=1223, Description='', Seats=1, LicensePlate='', TypeOfDrive='muscle', Power=0, Price=1, LicenseClass=''}  
+19:46:09.837 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.VehicleServiceImpl - Ich bin hier
+19:46:11.302 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+19:46:11.302 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+19:46:11.302 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:46:11.304 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - EDITOK
+19:46:39.388 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:46:40.373 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+19:46:41.129 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:46:43.829 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+19:46:43.830 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+19:46:43.831 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:46:46.420 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+19:46:46.423 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+19:46:46.424 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+19:46:47.170 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - VehicleEditWindowController: initialize
+19:46:47.172 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - no picture to show !
+19:46:49.302 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.VehicleEditWindowController - VehicleEditWindowController: updateReservation {}
+19:46:49.315 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to updateReservation a Vehicle Vehicle: Title='1ae', Year=1223, Description='', Seats=1, LicensePlate='', TypeOfDrive='muscle', Power=0, Price=1, LicenseClass=''}  
+19:46:49.341 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.VehicleServiceImpl - Ich bin hier
+19:46:49.341 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.VehicleServiceImpl - Ich bin hier
+19:46:49.341 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.VehicleServiceImpl - Ich bin hier
+19:46:49.342 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Edit the Vehicle :3
+19:46:49.342 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Search the Vehicle 3
+19:46:49.343 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Vehicle with the ID found: 
+19:46:49.353 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Updated 1
+19:46:49.353 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - Vehicle edited ! 
+19:46:51.074 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+19:46:51.074 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+19:46:51.074 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:46:51.076 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - EDITOK
+19:46:52.933 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+19:47:51.301 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:47:52.364 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+19:47:53.194 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:47:55.749 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+19:47:55.749 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+19:47:55.750 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:47:57.440 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+19:47:57.445 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+19:47:57.445 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+19:47:58.173 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - VehicleEditWindowController: initialize
+19:47:58.174 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - no picture to show !
+19:48:00.277 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.VehicleEditWindowController - VehicleEditWindowController: updateReservation {}
+19:48:00.289 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to updateReservation a Vehicle Vehicle: Title='w1ae', Year=1223, Description='', Seats=1, LicensePlate='', TypeOfDrive='muscle', Power=0, Price=1, LicenseClass=''}  
+19:48:00.315 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.VehicleServiceImpl - Ich bin hier
+19:48:00.316 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.VehicleServiceImpl - Ich bin hier
+19:48:00.316 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.VehicleServiceImpl - Ich bin hier
+19:48:00.316 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Edit the Vehicle :3
+19:48:00.317 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Search the Vehicle 3
+19:48:00.318 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Vehicle with the ID found: 
+19:48:00.324 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Updated 1
+19:48:00.324 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - Vehicle edited ! 
+19:48:03.758 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+19:48:03.759 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+19:48:03.759 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:48:03.760 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - EDITOK
+19:48:06.008 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+19:48:06.009 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+19:48:06.010 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+19:48:12.801 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl -  search Vehicle 3  
+19:48:12.806 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Search the Vehicle 3
+19:48:12.809 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Vehicle with the ID found: 
+19:48:12.809 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - found vehicle to be deleted: Vehicle: Title='w1ae', Year=1223, Description='', Seats=1, LicensePlate='', TypeOfDrive='muscle', Power=0, Price=1, LicenseClass=''}
+19:48:12.809 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to delet a Vehicle Vehicle: Title='w1ae', Year=1223, Description='', Seats=1, LicensePlate='', TypeOfDrive='muscle', Power=0, Price=1, LicenseClass=''}  
+19:48:12.810 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  delete the VEHICLE: Vehicle: Title='w1ae', Year=1223, Description='', Seats=1, LicensePlate='', TypeOfDrive='muscle', Power=0, Price=1, LicenseClass=''}
+19:48:12.811 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - Vehicle deleted ! 
+19:48:12.862 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+19:48:12.862 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+19:48:12.863 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:48:15.134 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+19:49:43.896 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:49:44.868 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+19:49:45.592 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:49:48.117 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+19:49:48.118 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+19:49:48.119 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:49:49.553 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+19:49:49.556 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 1
+19:49:49.556 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+19:49:49.558 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 2
+19:49:49.558 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+19:49:49.559 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 4
+19:49:49.559 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+19:49:50.954 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - VehicleEditWindowController: initialize
+19:49:50.955 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - no picture to show !
+19:49:53.010 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.VehicleEditWindowController - VehicleEditWindowController: updateReservation {}
+19:49:53.022 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to updateReservation a Vehicle Vehicle: Title='4audi', Year=2018, Description='new', Seats=2, LicensePlate='1ssde243', TypeOfDrive='muscle', Power=0, Price=244, LicenseClass=''}  
+19:49:53.048 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.VehicleServiceImpl - Ich bin hier
+19:49:53.049 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.VehicleServiceImpl - Ich bin hier
+19:49:53.049 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.VehicleServiceImpl - Ich bin hier
+19:49:53.049 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Edit the Vehicle :2
+19:49:53.050 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Search the Vehicle 2
+19:49:53.051 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Vehicle with the ID found: 
+19:49:53.055 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Updated 1
+19:49:53.055 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - Vehicle edited ! 
+19:49:55.711 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+19:49:55.711 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+19:49:55.711 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+19:49:55.712 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleEditWindowController - EDITOK
+19:49:57.740 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:01:11.481 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:01:12.889 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+21:01:13.635 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:01:20.497 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:21:41.576 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:21:42.677 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+21:21:43.600 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:21:57.432 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+21:21:57.434 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+21:21:57.434 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - IsNumeric Method: Checking if Input is a number!
+21:21:57.435 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to create a Vehicle Vehicle: Title='1313', Year=1331, Description='1313', Seats=3, LicensePlate='', TypeOfDrive='muscle', Power=0, Price=13, LicenseClass=''} 
+21:21:57.468 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Create vehicle :Vehicle: Title='1313', Year=1331, Description='1313', Seats=3, LicensePlate='', TypeOfDrive='muscle', Power=0, Price=13, LicenseClass=''}
+21:21:57.631 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - Vehicle saved ! 
+21:22:00.568 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+21:22:00.568 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+21:22:00.568 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+21:22:02.728 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:31:35.006 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:31:36.208 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+21:31:37.095 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:31:39.635 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !  
+21:31:39.636 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+21:31:41.613 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowReservationTableController - from ShowReservationTable enter MitarbeiterMainMenu
+21:31:48.130 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:35:01.494 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:35:02.551 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+21:35:03.330 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:35:05.293 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !  
+21:35:05.294 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+21:35:08.816 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowReservationTableController - from ShowReservationTable enter MitarbeiterMainMenu
+21:35:09.740 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !  
+21:35:09.741 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+21:35:13.279 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowReservationTableController - from ShowReservationTable enter MitarbeiterMainMenu
+21:35:16.038 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:43:20.859 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:43:22.047 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+23:43:22.921 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:43:25.130 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !  
+23:43:25.131 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:43:26.904 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowReservationTableController - from ShowReservationTable enter MitarbeiterMainMenu
+23:43:49.856 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleChooserController - Ich bin hier
+23:43:49.876 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - 0
+23:43:49.876 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Opening Choosing Window!
+23:43:49.921 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleChooserController - Show Vehicle Table Controller opened !
+23:43:49.921 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+23:43:49.922 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+23:43:50.726 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleChooserController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+23:43:51.488 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleChooserController - no image vorhanden
+23:43:53.878 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Ich war hier
+23:43:53.878 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - 24
+23:43:53.878 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - 244
+23:44:01.323 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - draft a Vehicle
+23:44:01.326 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - 2019-03-30
+23:44:01.327 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Checking for License 1
+23:44:01.327 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get the Vehicle :1
+23:44:01.331 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  Vehicle Vehicle: Title='fiat', Year=1986, Description='old', Seats=1, LicensePlate='1364rfwr', TypeOfDrive='muscle', Power=0, Price=24, LicenseClass='A'}
+23:44:01.332 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Checking for License 1
+23:44:01.332 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get the Vehicle :1
+23:44:01.334 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  Vehicle Vehicle: Title='fiat', Year=1986, Description='old', Seats=1, LicensePlate='1364rfwr', TypeOfDrive='muscle', Power=0, Price=24, LicenseClass='A'}
+23:44:01.335 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Checking for License 1
+23:44:01.335 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get the Vehicle :1
+23:44:01.336 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  Vehicle Vehicle: Title='fiat', Year=1986, Description='old', Seats=1, LicensePlate='1364rfwr', TypeOfDrive='muscle', Power=0, Price=24, LicenseClass='A'}
+23:44:01.336 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - hi 2011-03-15
+23:44:01.337 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Checking for License 2
+23:44:01.337 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get the Vehicle :2
+23:44:01.339 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  Vehicle Vehicle: Title='4audi', Year=2018, Description='new', Seats=2, LicensePlate='1ssde243', TypeOfDrive='muscle', Power=0, Price=244, LicenseClass=''}
+23:44:01.339 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Checking for License 2
+23:44:01.339 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get the Vehicle :2
+23:44:01.341 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  Vehicle Vehicle: Title='4audi', Year=2018, Description='new', Seats=2, LicensePlate='1ssde243', TypeOfDrive='muscle', Power=0, Price=244, LicenseClass=''}
+23:44:03.328 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - getBookingID
+23:44:03.334 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.u.ReserveVehicleController - 2019-03-30 12:00:00.02019-04-06 13:00:00.0
+23:44:03.335 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - reservationDAO.createReservation(reservation)
+23:44:03.335 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.ReservationServieceImpl - Checking the Availability of the Vehicle {}
+23:44:03.335 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.336 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.337 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.338 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.340 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.341 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.343 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.344 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.347 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.349 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.351 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.354 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.356 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.357 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.359 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.363 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.365 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.366 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.369 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.371 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.374 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.375 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.377 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.378 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.379 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.380 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.381 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.383 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.384 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.385 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.387 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.388 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.391 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.394 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.396 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.399 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.401 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.404 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.406 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.408 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.409 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - Checking if Reservation time is correct!
+23:44:03.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - save Reservation :Reservation{reservation_id=0, clientName='hi', start=2019-03-30 12:00:00.0, end=2019-04-06 13:00:00.0}
+23:44:03.438 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.u.ReserveVehicleController - 2019-03-30 12:00:00.02019-04-06 13:00:00.0
+23:44:03.438 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - reservationDAO.createReservation(reservation)
+23:44:03.438 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.ReservationServieceImpl - Checking the Availability of the Vehicle {}
+23:44:03.438 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.439 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.441 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.442 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.443 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.444 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.447 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.448 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.449 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.450 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.451 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.453 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.454 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.455 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.456 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.457 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.459 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.461 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.462 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.464 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.466 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.466 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.467 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.469 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.470 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.472 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.473 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.474 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.475 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.476 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.477 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.478 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.479 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.480 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.481 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.482 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.483 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.484 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.486 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.487 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.488 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.490 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.491 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.493 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.496 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.497 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.498 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.499 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+23:44:03.500 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - Checking if Reservation time is correct!
+23:44:03.500 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - save Reservation :Reservation{reservation_id=0, clientName='hi', start=2019-03-30 12:00:00.0, end=2019-04-06 13:00:00.0}
+23:59:46.152 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:59:47.422 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+23:59:48.471 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:59:52.271 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+23:59:52.272 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+23:59:52.272 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+23:59:54.778 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated

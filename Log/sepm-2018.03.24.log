@@ -1,0 +1,252 @@
+08:19:53.112 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+08:19:54.461 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+08:19:55.436 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+08:20:06.718 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:20:06.718 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:20:09.495 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowReservationTableController - from ShowReservationTable enter MitarbeiterMainMenu
+08:20:41.127 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleChooserController - Ich bin hier
+08:20:41.150 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - 0
+08:20:41.150 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Opening Choosing Window!
+08:20:41.198 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleChooserController - Show Vehicle Table Controller opened !
+08:20:41.198 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}
+08:20:41.198 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+08:20:41.854 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.VehicleChooserController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+08:20:44.033 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Ich war hier
+08:20:44.034 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - 24
+08:20:51.343 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - draft a Vehicle
+08:20:51.344 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - 2018-04-07
+08:20:51.345 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Checking for License 1
+08:20:51.349 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  Vehicle Vehicle: Title='fiat', Year=1986, Description='old', Seats=1, LicensePlate='1364rfwr', TypeOfDrive='muscle', Power=0, Price=24, LicenseClass='A'}
+08:20:51.349 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Checking for License 1
+08:20:51.350 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  Vehicle Vehicle: Title='fiat', Year=1986, Description='old', Seats=1, LicensePlate='1364rfwr', TypeOfDrive='muscle', Power=0, Price=24, LicenseClass='A'}
+08:20:51.351 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Checking for License 1
+08:20:51.352 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  Vehicle Vehicle: Title='fiat', Year=1986, Description='old', Seats=1, LicensePlate='1364rfwr', TypeOfDrive='muscle', Power=0, Price=24, LicenseClass='A'}
+08:20:51.352 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - hi null
+08:20:51.353 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Hi2
+08:20:58.948 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - draft a Vehicle
+08:20:58.948 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - 2018-04-07
+08:20:58.948 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Checking for License 1
+08:20:58.950 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  Vehicle Vehicle: Title='fiat', Year=1986, Description='old', Seats=1, LicensePlate='1364rfwr', TypeOfDrive='muscle', Power=0, Price=24, LicenseClass='A'}
+08:20:58.950 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Checking for License 1
+08:20:58.951 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  Vehicle Vehicle: Title='fiat', Year=1986, Description='old', Seats=1, LicensePlate='1364rfwr', TypeOfDrive='muscle', Power=0, Price=24, LicenseClass='A'}
+08:20:58.951 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Checking for License 1
+08:20:58.952 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  Vehicle Vehicle: Title='fiat', Year=1986, Description='old', Seats=1, LicensePlate='1364rfwr', TypeOfDrive='muscle', Power=0, Price=24, LicenseClass='A'}
+08:20:58.953 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - hi 2009-03-02
+08:21:00.917 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - getBookingID
+08:21:00.919 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.u.ReserveVehicleController - 2018-04-07 18:00:00.02018-04-11 19:00:00.0
+08:21:00.920 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - reservationDAO.createReservation(reservation)
+08:21:00.920 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.ReservationServieceImpl - Checking the Availability of the Vehicle {}
+08:21:00.920 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:00.921 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:00.923 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:00.924 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:00.926 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:00.928 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:00.931 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:00.934 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:00.936 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:00.939 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - Checking if Reservation time is correct!
+08:21:00.939 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - save Reservation :Reservation{reservation_id=0, clientName='wf', start=2018-04-07 18:00:00.0, end=2018-04-11 19:00:00.0}
+08:21:16.205 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - draft a Vehicle
+08:21:16.205 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - 2018-04-21
+08:21:16.206 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Checking for License 1
+08:21:16.207 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  Vehicle Vehicle: Title='fiat', Year=1986, Description='old', Seats=1, LicensePlate='1364rfwr', TypeOfDrive='muscle', Power=0, Price=24, LicenseClass='A'}
+08:21:16.207 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Checking for License 1
+08:21:16.208 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  Vehicle Vehicle: Title='fiat', Year=1986, Description='old', Seats=1, LicensePlate='1364rfwr', TypeOfDrive='muscle', Power=0, Price=24, LicenseClass='A'}
+08:21:16.208 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - Checking for License 1
+08:21:16.210 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC -  Vehicle Vehicle: Title='fiat', Year=1986, Description='old', Seats=1, LicensePlate='1364rfwr', TypeOfDrive='muscle', Power=0, Price=24, LicenseClass='A'}
+08:21:16.210 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ReserveVehicleController - hi 2009-03-02
+08:21:17.308 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - getBookingID
+08:21:17.310 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.u.ReserveVehicleController - 2018-04-21 18:00:00.02018-04-28 19:00:00.0
+08:21:17.310 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - reservationDAO.createReservation(reservation)
+08:21:17.310 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.ReservationServieceImpl - Checking the Availability of the Vehicle {}
+08:21:17.310 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:17.312 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:17.313 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:17.315 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:17.316 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:17.318 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:17.319 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:17.320 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:17.321 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:17.323 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:17.324 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:17.325 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:17.326 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:17.328 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:17.329 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:17.330 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:17.331 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:17.333 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - Checking if Reservation time is correct!
+08:21:17.333 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - save Reservation :Reservation{reservation_id=0, clientName='tdrf', start=2018-04-21 18:00:00.0, end=2018-04-28 19:00:00.0}
+08:21:21.235 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:21:21.236 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:21:47.910 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowReservationTableController - from ShowReservationTable enter MitarbeiterMainMenu
+08:22:09.978 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:22:09.979 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:23:51.242 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+08:23:52.399 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+08:23:53.197 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+08:23:56.427 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:23:56.428 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:24:27.346 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+08:24:28.417 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+08:24:29.264 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+08:24:31.653 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:24:31.654 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:24:36.988 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+08:25:26.072 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+08:25:27.205 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+08:25:27.892 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+08:26:03.782 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:26:03.783 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:26:14.516 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+08:36:07.674 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+08:36:08.775 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+08:36:09.523 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+08:36:12.622 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:36:12.624 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:36:34.721 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+08:37:21.111 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+08:37:22.542 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+08:37:23.447 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+08:37:25.045 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+08:37:31.773 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+08:37:32.892 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+08:37:33.783 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+08:37:36.997 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:37:36.999 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:38:12.292 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+08:44:03.738 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+08:44:04.759 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+08:44:05.513 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+08:44:42.051 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:44:42.051 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:45:07.276 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+08:45:33.125 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+08:45:34.265 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+08:45:35.144 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+08:45:44.826 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:45:44.827 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:46:05.933 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+08:46:18.982 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+08:46:20.042 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+08:46:20.747 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+08:46:42.903 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:46:42.904 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:46:52.907 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+08:47:10.636 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+08:47:11.689 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+08:47:12.528 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+08:47:53.503 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:47:53.503 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:48:05.303 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+08:48:59.414 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+08:49:00.651 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+08:49:01.636 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+08:49:05.154 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:49:05.155 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:49:23.096 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+08:49:39.696 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+08:49:40.782 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+08:49:41.639 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+08:49:46.255 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:49:46.256 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:49:54.656 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+08:50:07.463 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+08:50:08.524 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+08:50:09.278 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+08:50:12.467 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:50:12.468 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:51:38.326 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+08:51:52.555 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+08:51:53.581 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+08:51:54.417 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+08:52:00.518 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:52:00.519 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:52:17.923 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+08:55:13.238 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+08:55:14.472 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+08:55:15.157 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+08:55:17.951 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:55:17.952 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:55:20.847 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl -  search reservation !
+08:55:20.848 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 61
+08:55:20.873 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+08:55:20.874 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowReservationTableController - found reservation to be invoiced: Reservation{reservation_id=61, clientName='er', start=2018-04-06 12:00:00.0, end=2018-04-07 14:00:00.0}
+08:55:20.887 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.InvoiceServiceImpl - reservationDAO.createReservation(reservation)
+08:55:20.888 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.InvoiceDAOJDBC - draft a Reservation , Invoice maker:at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Invoice@647f9c91
+08:55:20.916 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to finiliaze a reservation !
+08:55:20.916 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  update the reservation: Reservation{reservation_id=61, clientName='er', start=2018-04-06 12:00:00.0, end=2018-04-07 14:00:00.0}
+08:55:20.933 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - reservation finilized !
+08:55:24.960 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowReservationTableController - from ShowReservationTable enter MitarbeiterMainMenu
+08:55:25.983 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:55:25.983 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:55:29.833 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl -  search reservation !
+08:55:29.834 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 93
+08:55:29.835 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+08:55:29.835 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowReservationTableController - found reservation to be invoiced: Reservation{reservation_id=93, clientName='wf', start=2018-04-07 18:00:00.0, end=2018-04-11 19:00:00.0}
+08:55:29.836 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.InvoiceServiceImpl - reservationDAO.createReservation(reservation)
+08:55:29.836 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.InvoiceDAOJDBC - draft a Reservation , Invoice maker:at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Invoice@4c9ab50
+08:55:29.840 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to finiliaze a reservation !
+08:55:29.840 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  update the reservation: Reservation{reservation_id=93, clientName='wf', start=2018-04-07 18:00:00.0, end=2018-04-11 19:00:00.0}
+08:55:29.841 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - reservation finilized !
+08:55:32.887 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowReservationTableController - from ShowReservationTable enter MitarbeiterMainMenu
+08:55:33.726 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:55:33.726 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:55:39.225 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+08:56:55.641 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+08:56:56.767 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+08:56:57.630 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+08:57:00.775 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:57:00.775 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:57:07.311 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl -  search reservation !
+08:57:07.312 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 61
+08:57:07.314 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+08:57:07.314 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowReservationTableController - found reservation to be deleted: Reservation{reservation_id=61, clientName='er', start=2018-04-06 12:00:00.0, end=2018-04-07 14:00:00.0}
+08:57:07.326 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - Reservation Cancellation is free of Cost!
+08:57:07.326 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - Reservation Cancellation is free of Cost!
+08:57:08.284 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to delet a reservation !
+08:57:08.284 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - Reservation Cancellation is free of Cost!
+08:57:08.284 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  delete the reservation: Reservation{reservation_id=61, clientName='er', start=2018-04-06 12:00:00.0, end=2018-04-07 14:00:00.0}
+08:57:08.285 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 61
+08:57:08.289 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - reservation deleted !
+08:57:08.289 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.InvoiceDAOJDBC - draft a Reservation , Invoice maker:at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Invoice@7649c2f5
+08:57:08.291 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowReservationTableController - show ShowReservationTableController after delete, refresh table
+08:57:08.334 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:57:08.334 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:57:11.391 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl -  search reservation !
+08:57:11.391 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 94
+08:57:11.392 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+08:57:11.393 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowReservationTableController - found reservation to be invoiced: Reservation{reservation_id=94, clientName='tdrf', start=2018-04-21 18:00:00.0, end=2018-04-28 19:00:00.0}
+08:57:11.393 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.InvoiceServiceImpl - reservationDAO.createReservation(reservation)
+08:57:11.393 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.InvoiceDAOJDBC - draft a Reservation , Invoice maker:at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Invoice@7f3888d5
+08:57:11.395 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to finiliaze a reservation !
+08:57:11.395 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  update the reservation: Reservation{reservation_id=94, clientName='tdrf', start=2018-04-21 18:00:00.0, end=2018-04-28 19:00:00.0}
+08:57:11.397 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - reservation finilized !
+08:57:11.398 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowReservationTableController - finalize Reservation, refresh table
+08:57:11.428 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+08:57:11.429 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+08:57:52.874 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+08:59:59.924 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+09:00:01.086 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+09:00:01.990 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+09:00:07.454 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+09:00:07.455 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+09:00:29.541 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+09:02:28.864 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+09:02:30.006 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+09:02:30.793 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+09:02:32.468 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+09:02:49.754 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+09:02:50.813 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+09:02:51.732 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+09:03:33.315 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+09:03:33.316 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+09:03:43.456 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+09:04:58.731 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+09:04:59.789 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+09:05:00.623 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+09:05:03.984 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !
+09:05:03.985 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+09:05:15.618 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated

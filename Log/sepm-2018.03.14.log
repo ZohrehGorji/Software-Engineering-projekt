@@ -1,0 +1,585 @@
+09:17:25.937 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+09:17:34.109 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+09:17:47.417 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+09:18:00.243 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+09:18:01.843 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+09:18:03.634 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.MainViewController - NumberFormatException
+09:18:04.913 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+09:18:06.280 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.MainViewController - NumberFormatException
+09:18:43.806 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+09:18:43.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save all
+09:18:43.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@6db661ee
+09:18:43.946 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save
+09:26:52.147 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+09:26:54.187 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+09:27:05.323 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+09:27:05.325 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save all
+09:27:05.325 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@2c160277
+09:27:05.425 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleUniverseService - save
+09:27:13.256 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+10:36:32.257 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+10:36:34.242 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+10:36:36.157 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+10:36:37.727 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.MainViewController - NumberFormatException
+10:36:45.412 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+10:36:45.413 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to Save a Vehicle !
+10:36:45.413 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@bb371b1
+10:36:45.505 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - Vehicle saved !
+10:36:45.505 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User wants to Edit a saved Vehicle !
+10:36:45.505 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - edit :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@bb371b1
+10:39:33.476 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+10:39:35.508 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+10:39:42.742 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+10:39:42.744 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to Save a Vehicle !
+10:39:42.744 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@619b7faa
+10:39:42.836 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - Vehicle saved !
+10:39:42.836 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User wants to Edit a saved Vehicle !
+10:39:42.836 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - edit :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@619b7faa
+10:39:42.842 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - rs1: columns: 13 rows: 51 pos: -1
+11:43:14.515 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+11:43:16.373 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+11:43:19.247 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+11:43:21.078 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.MainViewController - NumberFormatException
+11:43:23.129 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+11:53:52.381 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+11:54:20.895 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+11:54:22.843 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+11:54:29.426 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+11:54:29.428 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to Save a Vehicle !
+11:54:29.428 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@7c4138cc
+11:54:29.526 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - Vehicle saved !
+11:54:57.465 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+11:54:59.380 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+11:55:05.272 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+11:55:05.274 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to Save a Vehicle !
+11:55:05.274 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@3a48d559
+11:55:05.341 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - Vehicle saved !
+11:55:07.796 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+11:55:07.796 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to Save a Vehicle !
+11:55:07.796 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@1c2a2b21
+11:55:07.799 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - Vehicle saved !
+11:56:56.177 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+11:56:58.389 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+11:57:04.346 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+11:57:04.348 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to Save a Vehicle !
+11:57:04.348 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@4eb2333a
+11:57:04.427 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - Vehicle saved !
+12:02:45.112 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+12:02:46.922 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - ..Opening box edit dialog..
+12:03:18.365 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+12:03:20.147 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+12:03:20.147 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - ..Opening box edit dialog..
+12:06:32.579 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+12:06:34.639 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+12:06:42.329 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+12:06:42.331 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.MainViewController - NumberFormatException
+12:06:46.257 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+12:06:46.258 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to Save a Vehicle !
+12:06:46.258 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@43713dce
+12:06:46.355 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - Vehicle saved !
+12:07:52.202 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+12:07:54.101 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+12:08:01.289 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+12:08:01.291 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to Save a Vehicle !
+12:08:01.291 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@1cc4a8ec
+12:08:01.382 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - Vehicle saved !
+12:43:22.346 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+12:43:24.725 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+12:43:30.731 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+12:43:30.734 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to Save a Vehicle !
+12:43:30.734 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@23aa88da
+12:43:30.868 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - Vehicle saved !
+13:05:44.320 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:05:46.611 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:07:12.994 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:07:15.524 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:08:05.203 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:08:07.338 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:08:20.624 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+13:24:27.842 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:24:29.894 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:24:50.265 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+13:25:46.730 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:25:48.449 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:26:03.032 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+13:29:26.354 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:29:28.064 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:29:42.026 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+13:33:38.220 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:33:40.014 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:33:48.605 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+13:34:15.227 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:34:17.269 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:34:24.655 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+13:39:03.019 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:39:05.208 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:39:14.268 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+13:40:02.511 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:40:04.915 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:40:12.459 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+13:40:57.339 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:40:59.681 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:41:01.008 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+13:41:11.540 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:41:13.451 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:41:22.185 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+13:46:01.329 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:46:03.183 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:46:13.991 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+13:48:56.121 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:48:57.972 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:51:22.371 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:51:24.346 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:51:33.093 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+13:51:47.607 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:51:49.317 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:51:57.778 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+13:52:19.818 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:52:21.806 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:52:29.374 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+13:55:37.634 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:55:39.596 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:55:52.161 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+13:56:05.611 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+13:56:07.568 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+13:56:14.922 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+14:01:11.688 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:01:13.543 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:01:21.535 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+14:02:01.461 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:02:03.433 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:02:18.065 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+14:20:29.932 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:20:31.942 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:20:41.515 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+14:23:31.485 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:23:33.385 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:23:37.215 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+14:24:34.160 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:24:35.943 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:24:39.999 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+14:25:22.146 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:25:23.970 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:25:29.758 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+14:26:48.222 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:26:50.308 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:26:55.213 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+14:27:35.225 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:27:37.615 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:27:47.712 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+14:28:46.795 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:28:48.755 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:31:20.749 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+14:34:19.317 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:34:21.294 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:34:33.434 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+14:35:32.851 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:35:34.739 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:35:39.488 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+14:36:09.578 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:36:11.475 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:37:08.512 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+14:38:22.871 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:38:24.735 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:38:28.979 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+14:38:55.484 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:38:57.385 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:39:02.673 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+14:39:26.302 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:39:28.260 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:39:34.095 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+16:37:26.578 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+16:37:28.457 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+16:37:42.368 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+17:06:11.675 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:06:13.632 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17:06:17.307 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+17:10:06.940 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:10:11.874 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:10:13.947 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17:10:17.796 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+17:11:28.413 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:11:30.394 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17:11:34.285 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+17:14:23.535 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:14:25.464 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17:14:34.340 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+17:17:54.715 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:17:56.636 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17:18:03.752 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+17:18:07.186 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+17:19:36.708 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:19:38.570 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17:19:47.260 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+17:22:09.074 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:22:11.037 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17:22:14.749 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+17:22:39.683 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:22:41.389 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17:23:03.873 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+17:35:46.150 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:35:47.950 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17:35:52.818 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+17:43:56.390 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:44:08.215 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:44:10.315 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17:44:12.969 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+17:45:21.372 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:45:23.300 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17:45:26.238 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+17:46:25.162 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:46:27.114 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17:46:30.103 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+17:46:59.394 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:47:01.289 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17:47:04.659 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+17:47:34.789 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:47:36.637 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17:47:42.250 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+17:48:12.549 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:48:14.319 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17:48:17.259 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+17:52:21.434 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:52:23.414 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17:53:24.992 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+17:53:26.709 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17:53:29.877 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+18:21:01.940 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:21:04.124 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:21:13.200 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+18:22:41.985 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:22:43.872 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:22:46.455 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+18:26:28.072 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:26:30.007 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:26:32.791 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+18:34:01.100 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:34:02.969 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:34:06.051 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+18:35:45.886 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:35:47.691 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:35:57.548 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+18:40:47.946 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:40:50.053 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:40:51.122 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+18:40:51.123 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+18:40:53.087 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+18:43:16.041 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:43:18.034 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:43:21.378 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+18:43:21.379 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+18:45:01.880 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:45:03.659 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:45:06.344 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+18:45:06.344 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+18:45:24.332 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+18:47:19.444 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:47:21.474 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:47:23.257 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+18:47:23.258 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+18:54:41.566 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:54:43.736 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:54:46.373 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+18:54:51.392 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:54:53.340 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:54:55.855 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+18:55:00.670 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:55:02.283 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:55:09.241 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+18:55:09.242 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+18:55:11.568 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+18:55:41.605 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:55:43.368 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:55:44.512 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+18:55:44.513 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+18:55:46.451 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+18:56:15.628 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+18:56:17.371 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+18:56:18.422 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+18:56:18.423 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+18:56:22.196 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+19:03:34.650 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:03:36.573 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:03:38.378 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+19:03:38.378 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+19:03:41.879 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+19:19:29.338 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:19:31.296 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:19:32.500 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+19:19:32.501 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+19:19:39.551 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+19:21:21.198 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:21:23.150 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:21:25.478 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+19:21:25.479 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+19:22:01.901 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:22:03.850 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:22:05.563 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+19:22:05.564 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+19:23:16.408 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:23:18.328 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:23:20.236 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+19:23:20.237 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+19:23:25.710 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+19:23:41.685 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:23:43.699 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:23:45.659 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+19:23:45.661 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+19:25:07.755 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:25:09.768 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:25:11.773 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+19:27:08.108 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:27:10.113 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:27:11.616 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+19:27:11.617 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+19:29:45.446 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:29:52.977 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:29:54.913 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+19:29:54.914 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+19:30:41.406 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:30:43.209 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:30:45.115 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+19:30:45.116 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+19:31:49.686 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:31:51.713 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:31:54.397 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+19:31:54.398 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+19:31:54.485 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 1
+19:31:54.487 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 2
+19:31:54.487 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 3
+19:31:54.487 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 4
+19:31:54.488 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 5
+19:31:54.488 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 6
+19:31:54.488 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 7
+19:31:54.488 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 8
+19:31:54.488 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 9
+19:31:54.489 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 10
+19:31:54.489 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 11
+19:31:54.489 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 12
+19:31:54.489 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 13
+19:31:54.489 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 14
+19:31:54.489 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 15
+19:31:54.490 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 16
+19:31:54.490 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 17
+19:31:54.490 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 18
+19:31:54.490 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 19
+19:31:54.490 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 20
+19:31:54.490 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 21
+19:31:54.491 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 22
+19:31:54.491 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 23
+19:31:54.491 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 24
+19:31:54.491 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 25
+19:31:54.492 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 26
+19:31:54.492 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 27
+19:31:54.492 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 28
+19:31:54.492 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 29
+19:31:54.492 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 30
+19:31:54.493 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 31
+19:31:54.493 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 32
+19:31:54.493 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 33
+19:31:54.493 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 34
+19:31:54.493 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 35
+19:31:54.493 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 36
+19:31:54.494 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 37
+19:31:54.494 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 38
+19:31:54.494 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 39
+19:31:54.494 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 40
+19:31:54.494 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 41
+19:31:54.494 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 42
+19:31:54.495 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 43
+19:31:54.495 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 44
+19:31:54.495 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 45
+19:31:54.495 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 46
+19:31:54.495 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 47
+19:31:54.496 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 48
+19:31:54.496 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 49
+19:31:54.496 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 50
+19:31:54.496 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 51
+19:31:54.496 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 52
+19:31:54.496 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 53
+19:31:54.497 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 54
+19:31:54.497 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 55
+19:31:54.497 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 56
+19:31:54.497 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 57
+19:31:54.497 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 58
+19:32:13.901 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+19:34:02.041 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+19:34:03.972 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+19:34:35.799 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to get a Vehicle information !
+19:34:35.800 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - get :{}
+19:34:35.881 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 1
+19:34:35.883 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 2
+19:34:35.883 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 3
+19:34:35.884 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 4
+19:34:35.884 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 5
+19:34:35.884 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 6
+19:34:35.884 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 7
+19:34:35.885 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 8
+19:34:35.885 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 9
+19:34:35.885 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 10
+19:34:35.885 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 11
+19:34:35.885 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 12
+19:34:35.886 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 13
+19:34:35.886 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 14
+19:34:35.886 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 15
+19:34:35.886 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 16
+19:34:35.886 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 17
+19:34:35.886 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 18
+19:34:35.887 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 19
+19:34:35.887 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 20
+19:34:35.887 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 21
+19:34:35.887 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 22
+19:34:35.887 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 23
+19:34:35.887 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 24
+19:34:35.888 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 25
+19:34:35.888 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 26
+19:34:35.888 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 27
+19:34:35.888 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 28
+19:34:35.888 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 29
+19:34:35.888 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 30
+19:34:35.889 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 31
+19:34:35.889 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 32
+19:34:35.889 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 33
+19:34:35.889 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 34
+19:34:35.889 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 35
+19:34:35.890 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 36
+19:34:35.890 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 37
+19:34:35.890 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 38
+19:34:35.890 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 39
+19:34:35.890 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 40
+19:34:35.890 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 41
+19:34:35.891 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 42
+19:34:35.891 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 43
+19:34:35.891 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 44
+19:34:35.891 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 45
+19:34:35.891 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 46
+19:34:35.891 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 47
+19:34:35.892 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 48
+19:34:35.892 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 49
+19:34:35.892 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 50
+19:34:35.892 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 51
+19:34:35.892 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 52
+19:34:35.893 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 53
+19:34:35.893 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 54
+19:34:35.893 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 55
+19:34:35.893 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 56
+19:34:35.893 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 57
+19:34:35.894 [JavaFX Application Thread] ERROR a.a.t.s.a.i.u.ui.ShowVehicleTableController - 58
+19:34:44.130 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+20:24:05.163 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:24:07.317 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:24:09.485 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+20:24:09.486 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - getAll :{}
+20:24:12.928 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+20:29:49.730 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:29:51.709 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:29:53.352 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+20:29:53.353 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - getAll :{}
+20:29:56.300 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+20:30:22.948 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:30:24.863 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:30:26.538 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+20:30:26.539 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - getAll :{}
+20:30:29.035 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+20:31:41.357 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:31:43.387 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:31:44.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+20:31:44.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - getAll :{}
+20:31:46.709 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+20:36:48.615 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:36:50.415 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:36:51.939 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+20:36:51.940 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - getAll :{}
+20:36:52.027 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - ok
+20:36:53.790 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+20:38:47.638 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:38:49.477 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:38:50.791 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+20:38:50.793 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - getAll :{}
+20:38:52.605 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+20:39:23.925 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:39:26.634 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:39:35.470 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:39:37.579 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:39:38.499 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+20:39:38.500 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - getAll :{}
+20:39:39.578 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+20:39:58.049 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:40:00.228 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:40:01.659 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+20:40:01.660 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - getAll :{}
+20:40:01.739 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - ok
+20:40:02.879 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+20:41:17.558 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:41:19.275 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:41:20.318 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+20:41:20.319 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - getAll :{}
+20:41:22.502 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:37:34.660 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:37:36.694 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:37:37.972 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+21:37:37.973 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - getAll :{}
+21:37:38.102 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - [at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@20e60d12]
+21:37:39.992 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:18:11.977 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:18:14.016 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:18:30.663 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.ui.MainViewController - Save all Button
+22:18:30.664 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to Save a Vehicle !
+22:18:30.664 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.VehicleDAOJDBC - create :at.ac.tuwien.sepm.assignment.individual.vehicleRentalSystem.Entities.Vehicle@6d4c3a7a
+22:18:30.894 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - Vehicle saved !
+22:18:33.105 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+22:18:33.105 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+22:18:34.980 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:33:59.985 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:34:02.046 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:34:05.506 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:38:55.438 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:38:57.193 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:38:59.106 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+22:38:59.106 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+22:39:00.764 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:02:15.089 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:02:17.243 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:02:19.076 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+23:02:19.077 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+23:02:20.828 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:05:40.206 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:05:42.224 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:05:43.174 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+23:05:43.175 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+23:05:44.799 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:06:37.444 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:06:39.261 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:06:41.189 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+23:06:41.190 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+23:06:46.640 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:08:04.012 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:08:05.845 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:08:07.099 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+23:08:07.101 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+23:08:13.953 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:08:41.573 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:08:43.453 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:08:45.604 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+23:08:45.605 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+23:08:47.183 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:09:56.443 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:09:58.650 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:10:00.072 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+23:10:00.073 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+23:10:01.541 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:23:32.471 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:23:34.459 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:23:35.848 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+23:23:35.848 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+23:23:51.623 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:24:38.278 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:24:40.352 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:24:41.975 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+23:24:41.976 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+23:24:43.438 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:35:44.982 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:35:47.019 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:35:48.481 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.SimpleVehicleService - User want to getAll a Vehicle information !
+23:35:48.482 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+23:35:50.538 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated

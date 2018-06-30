@@ -1,0 +1,7 @@
+14:00:48.597 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+14:00:50.590 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.ui.MainViewController - Main View Controller opened !
+14:00:52.502 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14:00:56.169 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+14:00:56.170 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+14:00:56.170 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.VehicleDAOJDBC - getAll Vehicles:
+16:11:05.308 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated

@@ -1,0 +1,162 @@
+12:49:17.730 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+12:49:19.605 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.ui.MainViewController - Main View Controller opened !
+12:49:20.501 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+12:49:25.313 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+12:49:25.314 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+12:49:25.314 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.VehicleDAOJDBC - getAll Vehicles:
+12:49:27.768 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 2
+12:49:27.769 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:27.778 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:27.778 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/2.jpeg
+12:49:29.019 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 3
+12:49:29.020 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:29.020 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:29.021 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 2
+12:49:29.021 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/3.jpeg
+12:49:29.429 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 4
+12:49:29.431 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:29.432 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:29.432 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/4.jpeg
+12:49:29.965 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 5
+12:49:29.966 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:29.967 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:29.967 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/5.png
+12:49:30.405 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 6
+12:49:30.406 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:30.406 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:30.406 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/6.jpeg
+12:49:30.813 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 7
+12:49:30.815 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:30.815 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:30.815 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/7.jpeg
+12:49:31.277 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 8
+12:49:31.278 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:31.278 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:31.278 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/8.jpeg
+12:49:32.085 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 9
+12:49:32.086 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:32.086 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:32.087 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/9.jpeg
+12:49:32.453 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 10
+12:49:32.454 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:32.454 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:32.455 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/10.jpeg
+12:49:33.805 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 11
+12:49:33.806 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:33.807 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:33.807 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/11.jpeg
+12:49:34.158 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 12
+12:49:34.158 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:34.158 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:34.159 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/12.jpeg
+12:49:34.741 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 13
+12:49:34.742 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:34.742 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:34.742 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/13.jpeg
+12:49:35.709 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 14
+12:49:35.710 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:35.711 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:35.711 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/14.jpeg
+12:49:36.062 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 15
+12:49:36.063 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:36.063 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:36.063 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/15.jpeg
+12:49:36.350 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 16
+12:49:36.351 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:36.351 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:36.351 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/16.jpeg
+12:49:36.766 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 17
+12:49:36.767 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:36.767 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:36.767 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/17.jpeg
+12:49:37.053 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 18
+12:49:37.054 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:37.055 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:37.055 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/18.jpeg
+12:49:38.286 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 19
+12:49:38.298 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:38.307 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:38.308 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/19.jpeg
+12:49:38.750 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 20
+12:49:38.750 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:38.751 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:38.751 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/20.jpeg
+12:49:39.653 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 21
+12:49:39.654 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:39.655 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:39.655 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/21.jpeg
+12:49:39.918 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 22
+12:49:39.918 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/22.jpeg
+12:49:40.301 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 23
+12:49:40.302 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/23.jpeg
+12:49:40.549 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 24
+12:49:40.550 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/24.jpeg
+12:49:40.726 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 25
+12:49:40.726 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/25.jpeg
+12:49:41.590 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 24
+12:49:41.590 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/24.jpeg
+12:49:41.870 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 23
+12:49:41.871 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/23.jpeg
+12:49:42.133 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 22
+12:49:42.134 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/22.jpeg
+12:49:42.333 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 21
+12:49:42.334 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:42.334 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:42.334 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/21.jpeg
+12:49:42.541 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 20
+12:49:42.542 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:42.542 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:42.542 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/20.jpeg
+12:49:42.686 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 19
+12:49:42.686 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:42.686 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:42.687 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/19.jpeg
+12:49:42.830 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 18
+12:49:42.831 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:42.831 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:42.831 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/18.jpeg
+12:49:42.973 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 17
+12:49:42.974 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:42.974 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:42.974 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/17.jpeg
+12:49:43.111 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 16
+12:49:43.113 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:43.113 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:43.113 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/16.jpeg
+12:49:43.294 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 15
+12:49:43.294 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:43.295 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:43.295 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/15.jpeg
+12:49:43.646 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 14
+12:49:43.647 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:43.647 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:43.647 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/14.jpeg
+12:49:43.814 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 13
+12:49:43.814 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:43.815 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:43.815 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/13.jpeg
+12:49:44.198 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 12
+12:49:44.199 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:44.199 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:44.199 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/12.jpeg
+12:49:44.526 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 11
+12:49:44.526 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:44.527 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:44.527 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/11.jpeg
+12:49:44.781 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 10
+12:49:44.782 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:44.782 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:44.782 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/10.jpeg
+12:49:47.222 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 11
+12:49:47.222 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:47.223 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:47.223 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/11.jpeg
+12:49:47.430 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 12
+12:49:47.430 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:47.431 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:47.431 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/12.jpeg
+12:49:47.598 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - Search 13
+12:49:47.599 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.v.dao.ReservationDAOJDBC - found!
+12:49:47.599 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - 1
+12:49:47.599 [JavaFX Application Thread] INFO  a.a.t.s.a.i.v.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/13.jpeg
+12:49:51.991 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated

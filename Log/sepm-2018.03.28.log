@@ -1,0 +1,531 @@
+15:35:15.877 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+15:35:17.962 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+15:35:20.677 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+15:36:25.271 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+15:36:25.272 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+15:36:25.273 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+15:37:04.561 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+15:37:04.561 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+15:37:04.561 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+15:37:10.737 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+15:37:11.924 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+15:37:12.529 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+15:42:41.181 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+15:42:42.635 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.s.ReservationServieceImpl - User want to showAllReservation a Reservation information !  
+15:42:42.636 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Entering showAll method
+15:42:58.551 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:34:23.836 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:34:25.120 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+21:34:26.080 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:34:28.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+21:34:28.637 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+21:34:28.637 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+21:34:31.704 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+21:34:32.321 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:34:33.079 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:34:34.690 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:35:13.109 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:35:14.375 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+21:35:15.251 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:35:18.364 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+21:35:18.365 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+21:35:18.365 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+21:35:19.812 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:35:19.815 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:35:19.817 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:35:21.890 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:35:21.891 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:35:21.892 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:35:23.467 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:35:23.468 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:35:23.469 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:35:24.971 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:35:24.974 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:35:24.974 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:35:26.588 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:38:41.481 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:38:42.667 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+21:38:43.619 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:38:46.686 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+21:38:46.687 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+21:38:46.687 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+21:38:48.283 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:38:48.286 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:38:48.289 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:38:54.232 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:38:54.233 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:38:54.234 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:38:56.584 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:38:56.585 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:38:56.586 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:38:56.960 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+21:38:56.962 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+21:38:56.962 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:38:57.464 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:38:57.466 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:38:57.466 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:38:57.953 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:38:57.954 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:38:57.954 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:39:00.944 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:39:00.946 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:39:00.946 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:39:04.345 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+21:39:04.347 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+21:39:04.347 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:39:05.129 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:39:05.130 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:39:05.131 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:39:05.393 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:39:05.394 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:39:05.395 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:39:07.512 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:39:45.820 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:39:46.922 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+21:39:47.668 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:40:22.091 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+21:40:22.092 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+21:40:22.092 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+21:40:24.331 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:40:24.334 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:40:24.337 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:40:24.337 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:40:26.551 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:40:26.552 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:40:26.552 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:40:26.553 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:40:28.221 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+21:40:28.222 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+21:40:28.222 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:40:31.905 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:40:31.907 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:40:31.907 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:40:31.907 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:40:32.401 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+21:40:32.402 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+21:40:32.403 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:40:35.178 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:41:12.915 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:41:14.165 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+21:41:14.973 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:41:16.923 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+21:41:16.924 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+21:41:16.925 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+21:41:18.912 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+21:41:18.915 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+21:41:18.915 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:41:20.364 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:41:20.365 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:41:20.368 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:41:20.368 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:41:20.878 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:41:20.879 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:41:20.880 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:41:20.880 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:41:22.334 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:41:22.336 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:41:22.336 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:41:22.337 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:41:22.670 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+21:41:22.671 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+21:41:22.671 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:41:25.084 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:41:25.086 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:41:25.086 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:41:25.086 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:41:29.673 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:44:39.314 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:44:40.406 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+21:44:41.204 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:44:43.728 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+21:44:43.729 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+21:44:43.729 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+21:44:45.238 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:44:45.240 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:44:45.243 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:44:45.244 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:44:47.772 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:44:47.773 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:44:47.773 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:44:47.773 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:44:51.608 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+21:44:51.609 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+21:44:51.610 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:44:52.672 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:44:52.674 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:44:52.674 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:44:52.674 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:44:54.784 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:44:54.786 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:44:54.786 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:44:54.786 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:44:58.088 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:44:58.089 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:44:58.090 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:44:58.090 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:44:59.736 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+21:44:59.739 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+21:44:59.739 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:45:00.792 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:45:00.794 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:45:00.794 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:45:00.794 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:45:03.281 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:45:03.282 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:45:03.282 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:45:03.282 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:45:04.025 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:45:04.026 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:45:04.027 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:45:04.027 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:45:04.345 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+21:45:04.346 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+21:45:04.346 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:45:05.896 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:46:24.969 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:46:26.093 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+21:46:26.996 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:47:09.213 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+21:47:09.214 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+21:47:09.215 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+21:47:10.523 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+21:47:10.530 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+21:47:10.531 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:47:12.980 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:47:12.981 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 100
+21:47:12.981 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:47:12.983 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:47:12.984 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:47:16.652 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:47:16.653 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 100
+21:47:16.654 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:47:16.654 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:47:16.654 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:47:19.476 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:47:19.479 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 100
+21:47:19.479 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:47:19.479 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:47:19.480 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:47:21.020 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+21:47:21.022 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+21:47:21.022 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:47:24.064 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:48:05.520 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:48:06.576 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+21:48:07.272 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:48:10.169 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+21:48:10.170 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+21:48:10.170 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+21:48:11.687 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+21:48:11.689 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+21:48:11.689 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:48:14.276 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:48:14.277 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 1
+21:48:14.278 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:48:14.279 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:48:14.280 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:48:14.322 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:48:14.323 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 1
+21:48:14.324 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:48:14.324 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:48:14.324 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:48:18.539 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:48:18.540 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 1
+21:48:18.541 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:48:18.541 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:48:18.541 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:48:19.403 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+21:48:19.404 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+21:48:19.405 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:48:21.035 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:48:21.036 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 1
+21:48:21.036 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:48:21.036 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:48:21.036 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:48:26.259 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:48:26.261 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 1
+21:48:26.261 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:48:26.262 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:48:26.262 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:48:28.981 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:49:53.591 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:49:54.707 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+21:49:55.562 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:50:51.979 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+21:50:51.980 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+21:50:51.980 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+21:50:54.084 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:50:54.086 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - rs1: columns: 2 rows: 3 pos: 0
+21:50:54.086 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:50:54.088 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:50:54.088 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:50:58.862 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:50:58.863 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - rs2: columns: 2 rows: 2 pos: 0
+21:50:58.863 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:50:58.864 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:50:58.864 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:51:00.622 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:51:00.623 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - rs3: columns: 2 rows: 3 pos: 0
+21:51:00.624 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:51:00.624 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:51:00.624 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:51:02.060 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:51:51.649 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:51:52.787 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+21:51:53.492 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:51:55.747 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+21:51:55.747 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+21:51:55.748 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+21:51:57.145 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+21:51:57.147 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+21:51:57.147 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:51:58.671 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:51:58.672 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 1
+21:51:58.673 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:51:58.674 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:51:58.674 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:51:59.656 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:51:59.657 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 1
+21:51:59.657 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:51:59.658 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:51:59.658 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:52:00.928 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:52:00.929 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 1
+21:52:00.930 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:52:00.930 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:52:00.930 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:52:01.928 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:52:01.929 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 1
+21:52:01.929 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:52:01.930 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:52:01.930 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:52:03.951 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:52:41.951 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:52:42.987 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+21:52:43.839 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:52:46.507 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+21:52:46.508 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+21:52:46.508 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+21:52:48.349 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+21:52:48.352 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+21:52:48.353 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:52:49.131 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:52:49.132 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - columns: 2 rows: 3 pos: 0
+21:52:49.132 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:52:49.134 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:52:49.135 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:52:51.152 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:52:51.153 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - columns: 2 rows: 2 pos: 0
+21:52:51.153 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:52:51.153 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:52:51.153 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:52:52.399 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:52:52.400 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - columns: 2 rows: 3 pos: 0
+21:52:52.401 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:52:52.401 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:52:52.401 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:53:05.945 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:53:12.624 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:53:13.716 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+21:53:14.514 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:53:17.794 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+21:53:17.795 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+21:53:17.795 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+21:53:19.759 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:53:19.762 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - ws: 3 pos: 0
+21:53:19.762 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:53:19.764 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:53:19.765 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:53:23.294 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+21:53:23.294 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+21:53:23.295 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:53:26.029 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:53:26.032 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - ws: 3 pos: 0
+21:53:26.032 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:53:26.033 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:53:26.033 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:53:28.334 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:53:28.335 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - ws: 2 pos: 0
+21:53:28.335 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:53:28.336 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:53:28.336 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:53:31.302 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:53:31.303 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - ws: 3 pos: 0
+21:53:31.303 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:53:31.304 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:53:31.304 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:53:32.270 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:53:32.271 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - ws: 2 pos: 0
+21:53:32.271 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:53:32.271 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:53:32.272 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:53:35.398 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:53:35.399 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - ws: 3 pos: 0
+21:53:35.400 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:53:35.400 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:53:35.400 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:53:37.552 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:56:12.101 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:56:13.166 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+21:56:13.890 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:56:44.302 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+21:56:44.303 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+21:56:44.304 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+21:56:46.128 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:56:46.130 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 0
+21:56:46.130 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:56:46.132 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 2018-03-28 12:00:00.0
+21:56:46.132 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:56:46.133 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:56:50.472 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:56:50.473 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  2 pos: 0
+21:56:50.473 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:56:50.473 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 2018-04-07 18:00:00.0
+21:56:50.473 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:56:50.473 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:56:53.541 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:56:53.543 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 0
+21:56:53.544 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:56:53.544 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 2018-03-28 12:00:00.0
+21:56:53.544 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:56:53.544 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:56:54.509 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+21:56:54.511 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  2 pos: 0
+21:56:54.511 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:56:54.511 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 2018-04-07 18:00:00.0
+21:56:54.511 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:56:54.512 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+21:56:55.245 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+21:56:55.248 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 0
+21:56:55.248 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+21:56:55.248 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC - 2018-03-28 12:00:00.0
+21:56:55.248 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+21:56:55.249 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+21:56:57.589 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:01:02.807 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:01:03.887 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+22:01:04.781 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:01:07.777 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+22:01:07.778 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+22:01:07.778 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+22:01:09.305 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+22:01:11.327 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:01:54.580 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:01:55.611 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+22:01:56.414 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:01:58.934 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+22:01:58.935 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+22:01:58.935 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+22:02:00.001 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+22:02:00.007 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 0
+22:02:00.007 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:02:00.010 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+22:02:00.011 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+22:02:01.946 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+22:02:01.946 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+22:02:01.947 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+22:02:02.616 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+22:02:02.618 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 0
+22:02:02.618 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:02:02.619 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+22:02:02.619 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+22:02:03.488 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+22:02:03.490 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  2 pos: 0
+22:02:03.490 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:02:03.490 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+22:02:03.490 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+22:02:07.510 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:15:39.415 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:15:40.432 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+22:15:41.187 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:15:44.594 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+22:15:44.595 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+22:15:44.595 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+22:15:46.072 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+22:15:46.075 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 0
+22:15:46.075 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:15:46.077 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+22:15:46.078 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+22:15:52.598 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+22:15:52.599 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  2 pos: 0
+22:15:52.599 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:15:52.599 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+22:15:52.599 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+22:15:55.182 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+22:15:55.184 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 0
+22:15:55.184 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:15:55.184 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+22:15:55.184 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+22:15:55.726 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+22:15:55.729 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+22:15:55.729 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+22:15:57.631 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:17:50.806 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:17:52.424 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+22:17:53.415 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:17:55.942 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+22:17:55.943 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+22:17:55.943 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+22:17:57.917 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+22:17:57.920 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  2 pos: 0
+22:17:57.920 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:17:57.921 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  2 pos: 1
+22:17:57.921 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:17:57.922 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 4
+22:17:57.922 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+22:18:00.894 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+22:18:00.895 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 0
+22:18:00.895 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:18:00.895 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 1
+22:18:00.895 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:18:00.895 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 2
+22:18:00.896 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:18:00.896 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 6
+22:18:00.896 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+22:18:03.243 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+22:18:03.245 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 0
+22:18:03.245 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+22:18:04.668 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+22:18:04.669 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 0
+22:18:04.669 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:18:04.669 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 1
+22:18:04.669 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:18:04.670 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 2
+22:18:04.670 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:18:04.670 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 6
+22:18:04.670 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+22:18:11.288 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:20:23.389 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:20:24.749 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.ui.MainViewController - MainViewController opened !
+22:20:25.683 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:20:27.663 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - Show Vehicle Table Controller opened !
+22:20:27.664 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.s.VehicleServiceImpl - User want to showAllReservation a Vehicle information {}  
+22:20:27.664 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.VehicleDAOJDBC - Entering showAll method
+22:20:28.868 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+22:20:28.871 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  2 pos: 1
+22:20:28.872 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:20:28.874 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+22:20:28.874 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+22:20:42.649 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+22:20:42.652 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 1
+22:20:42.652 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:20:42.653 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 2
+22:20:42.653 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:20:42.653 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 4
+22:20:42.653 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+22:20:44.256 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 3
+22:20:44.257 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - NOT found!
+22:20:44.257 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+22:20:44.918 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 2
+22:20:44.919 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 1
+22:20:44.919 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:20:44.920 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  3 pos: 2
+22:20:44.920 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:20:44.920 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 4
+22:20:44.920 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.u.ShowVehicleTableController - no image to show !
+22:21:04.912 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - Search 1
+22:21:04.914 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.dao.ReservationDAOJDBC -  2 pos: 1
+22:21:04.914 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.u.dao.ReservationDAOJDBC - found!
+22:21:04.914 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - 2
+22:21:04.915 [JavaFX Application Thread] INFO  a.a.t.s.a.i.u.u.ShowVehicleTableController - /Users/zi/Desktop/sepm-individual-assignment-java/src/main/resources/imgFolder/fiat_1986.jpg
+22:21:06.091 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
